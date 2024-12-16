@@ -12,3 +12,6 @@ def test():
 
 
 test()
+
+def funny_func(number):
+    return -1*number
